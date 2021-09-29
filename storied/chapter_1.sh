@@ -11,4 +11,4 @@ echo "** You scurry away quickly... **"
 echo "##### COASTVIEW ######"
 echo "###### $PERSON's HOUSE ######"
 echo "###### 2F ######"
-sh ./chapter_2.sh
+sh ./endcard.sh
