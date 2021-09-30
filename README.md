@@ -7,4 +7,4 @@ For the IRC channel : coming soon :)
 
 Current release: beta 1.0.1
 
-SUPPORTS LINUX AND macOS ONLY(and Windows via WSL)
+SUPPORTS LINUX ONLY(and Windows via WSL)
